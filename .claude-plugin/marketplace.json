@@ -1,0 +1,15 @@
+{
+  "name": "teamwork-devkit-skills",
+  "owner": {
+    "name": "Maonianyou",
+    "email": "maonianyou@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "teamwork-devkit-skills",
+      "source": ".",
+      "description": "Team workflow skillset: init AGENTS.md/docs and route by role/stage.",
+      "version": "0.1.0"
+    }
+  ]
+}

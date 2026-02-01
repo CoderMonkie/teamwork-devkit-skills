@@ -7,9 +7,18 @@
   "plugins": [
     {
       "name": "teamwork-devkit-skills",
-      "source": ".",
+      "source": "./",
       "description": "Team workflow skillset: init AGENTS.md/docs and route by role/stage.",
-      "version": "0.1.0"
+      "version": "0.1.1",
+      "skills": [
+        "./skills/teamwork-dev-entry",
+        "./skills/teamwork-project-init",
+        "./skills/teamwork-product",
+        "./skills/teamwork-architect",
+        "./skills/teamwork-uiux-design",
+        "./skills/teamwork-fullstack",
+        "./skills/teamwork-qa"
+      ]
     }
   ]
 }
